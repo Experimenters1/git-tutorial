@@ -9,3 +9,9 @@ git remote add MyApp https://github.com/Experimenters1/create-native-module-reac
 
 
 https://www.google.com/search?q=git+remote+add&rlz=1C5CHFA_enVN1013VN1013&oq=git+remote&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyDQgAEAAYgwEYsQMYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg0NzEwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 <br>
+
+
+[How do you stash an untracked file?]() <br><br>
+```github
+git stash --include-untracked
+```
